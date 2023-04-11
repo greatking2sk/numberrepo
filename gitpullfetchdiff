@@ -4,3 +4,8 @@ between
 git pull
 and 
 git fetch
+
+git pull is a 
+combination of 
+git fetch and 
+git merge.
